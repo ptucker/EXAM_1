@@ -8,6 +8,7 @@ I affirm that all the code given below was written solely by me, Aleisha Smith, 
 
 int main()
 {
+	//PT -- update: -12
   RaceCar fast("Red");
   Sedan car("Purple", 7);
   Pickup truck("Blue", 700);
